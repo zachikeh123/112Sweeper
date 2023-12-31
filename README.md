@@ -1,5 +1,5 @@
-# Minesweeper
-My Term Project is going to be 112Sweeper, with inspiration from the popular game Minesweeper Online.
+# 112Sweeper
+This was my final project for a Python based class called 112Sweeper, with inspiration from the popular game Minesweeper Online.
 The game consists of a clickable tile grid with hidden "mines" spread all over the board. 
 The number of mines next to a cell is indicated by its number. 
 You can identify cells that are mine-free and those that are safe using this information. 
